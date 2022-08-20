@@ -1,6 +1,6 @@
 <img src='https://rishavanand.github.io/static/images/greetings.gif' alt='greeting'>
 
-<center><h1>I'm Alexander Anofrikov</h1></center>
+<h1>I'm Alexander Anofrikov</h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=Andeo1812&label=Profile%20views&color=0e75b6&style=flat" alt="Andeo1812" /> </p>
 
