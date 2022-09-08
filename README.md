@@ -26,7 +26,7 @@
 
 <h3>Stats:</h3>
 <p>
-    <img src="https://github-readme-stats.vercel.app/?username=Andeo1812&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Andeo1812" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Andeo1812&amp;hide=contribs,issues?username=Andeo1812&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Andeo1812" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andeo1812&theme=dark" alt="Andeo1812" />
     <img src="https://github-readme-stats.vercel.app/top-langs?username=Andeo1812&show_icons=true&locale=en&layout=compact&exclude_repo=nirs-5th-sem-bmstu&hide=html,javascript,tex&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Andeo1812" />
 </p>
