@@ -10,6 +10,7 @@
 
 <h3>Languages and Tools:</h3>
 <p>
+    <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/88785411/185733172-a75974bb-445d-497e-bade-d182e376c090.png" alt="django" width="40" height="40"/></a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
