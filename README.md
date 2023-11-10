@@ -1,6 +1,11 @@
-# 𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt
+<h1 align="center">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+</h1>
 
-<img align="right" height="250" width="400" alt="GIF" src="static/greeting.gif"/>
+<br/>
+<br/>
+
+<img align="right" height="120" width="170" alt="GIF" src="static/greeting.gif"/>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Golang 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 k8s.**
@@ -13,9 +18,7 @@
     I'm Alexander Anofrikov
 </h1>
 
-<p> <img src="https://komarev.com/ghpvc/?username=Andeo1812&label=Profile%20views&color=0e75b6&style=flat" alt="Andeo1812" /> </p>
-
-- <h3><a href="https://www.bmstu.ru/" >BMSTU</a> Graduate </h3>
+- <h3><a href="https://www.bmstu.ru/" >BMSTU</a> graduate </h3>
 
 - <h3>Student of <a href="https://park.vk.company/" >VK Technopark</a></h3>
 
