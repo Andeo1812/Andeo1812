@@ -18,6 +18,9 @@
     I'm Alexander Anofrikov
 </h1>
 
+<p> <img src="https://komarev.com/ghpvc/?username=Andeo1812&label=Profile%20views&color=0e75b6&style=flat" alt="Andeo1812" /> </p>
+
+
 - <h3><a href="https://www.bmstu.ru/" >BMSTU</a> graduate </h3>
 
 - <h3>Student of <a href="https://park.vk.company/" >VK Technopark</a></h3>
