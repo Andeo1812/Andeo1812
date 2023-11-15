@@ -54,6 +54,8 @@
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/graylog_logo_icon_170053.png"/></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prometheus_icon_130229.png"/></code>
+<code><img height="40" width="40" src="https://min.io/resources/img/logo/MINIO_Bird.png"/></code>
+
 
 <br/>
 
